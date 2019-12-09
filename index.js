@@ -1,1 +1,1 @@
-document.getElementById('app').innerHTML = new date().toDateString()
+document.getElementById('app').innerHTML = new Date().toDateString()
